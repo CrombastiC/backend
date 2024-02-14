@@ -1,0 +1,31 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(±Œ©À8¸¡çšË1
+u
+java:S1192"XDefine a constant instead of duplicating this literal "text/html;charset=UTF-8" 4 times.(£àç‡8¹¡çšË1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÅ˜Ëúÿÿÿÿ8¹¡çšË1
+r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÈ¯áøÿÿÿÿ8¹¡çšË1
+r	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÅ˜Ëúÿÿÿÿ8¹¡çšË1
+r	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÏÄñøÿÿÿÿ8¹¡çšË1
+r	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¦•Ôıÿÿÿÿ8‹¡Ë1
+™
+java:S1130"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(×ñ«•ûÿÿÿÿ8Ñ¡çšË1
+G	java:S106 "+Replace this use of System.out by a logger.(Çı¢İ8Ò¡çšË1
+G	java:S106#"+Replace this use of System.out by a logger.(´áîŞ8Ò¡çšË1
+L	java:S106&"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8Ó¡çšË1
+”
+java:S1130-"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(õÃ‰ö8Ó¡çšË1
+”
+java:S1130<"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(íÃ¸8Ù¡çšË1
+”
+java:S1130I"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ìÚçÃ8Û¡çšË1
+”
+java:S1130Y"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(è¬Ö³8İ¡çšË1
+G
+java:S1172Y"*Remove this unused method parameter "req".(è¬Ö³8±»ğšË1
+”
+java:S1130b"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(îåˆŞ8¶‹¡Ë1
+G
+java:S1172b"*Remove this unused method parameter "req".(îåˆŞ8¶‹¡Ë1
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(½‰‘ƒúÿÿÿÿ8Ş¡çšË1

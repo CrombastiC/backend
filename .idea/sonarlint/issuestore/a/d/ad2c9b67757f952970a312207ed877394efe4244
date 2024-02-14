@@ -1,0 +1,7 @@
+
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8®Ôå£Ë1
+”
+java:S1130"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(Á«´Å8±üÁïË1
+F	java:S106"+Replace this use of System.out by a logger.(¨î±H8¼Ôå£Ë1
+]
+java:S1128";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ8êüÁïË1
